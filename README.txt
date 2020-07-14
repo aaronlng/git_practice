@@ -6,4 +6,4 @@ Practicing some more today, going to attempt to work on some JavaScript projects
 
 Wrapped up the props lesson today.Today July 4, 2020, I completed the lesson on React state and began the color picker project. Finished Color Picker Project today. Continuing working on Ravenous project with React. Completed the second part of the Ravenous project. Learned about stateless and stateful components. Worked on Ravenous part 3. Continued working on Ravenous Part 3. Finished working on Ravenous part 3 (7/9/2020). Learned about authorization and Oauth. Completed Ravenous Part 4.
 
-Learned about React styling.
+Learned about React styling. Continued learning about styling in React.
